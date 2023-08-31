@@ -1,0 +1,90 @@
+/* IMPOSTAZIONI GENERALI */
+
+/* HEADER */
+
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
+.persfondo{
+    background-image: url(sfondo.png);
+    max-width: 450px;
+}
+.conteiner {
+    background-color: white;
+    margin: auto;
+    text-align: center;
+max-width: 350px;
+}
+.testa {
+    padding: 1em;
+    text-align: center;
+    width: 200px 200px;
+    background-color: #007388;
+    margin-bottom: 30px;
+}
+.title { 
+    color: white;
+    padding: 0.8em;
+}
+.home {
+    color: white;
+    padding: 0.2em;
+    list-style: none;
+}
+i {
+    width: 1em;
+    height: 1em;
+}
+.nav {
+    display: inline;
+}
+.posth1 {
+    color: grey;
+    margin-bottom: 1em;
+    font-size: small
+}
+.liste {
+    margin-bottom: 1em;
+}
+table {
+        margin: auto;
+}
+th {
+    margin: auto;
+}
+.divido {
+    border-top: solid blue;}
+    .aside {
+        padding: 2em 0;
+        margin-bottom: 1em;
+    margin-top: 1em;
+    background-color: grey;
+    }
+    .aside p {
+        margin-top: 0.8em;
+        margin-right: 1em;
+        margin-left: 1em
+    }
+    .ttfine {
+        margin-bottom: 2em;
+    }
+    .ultimi {
+        background-color: grey;
+        padding: 2em 0;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    }
+    .foot {
+        background-color: #007388;
+        padding: 2em 0;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    }
